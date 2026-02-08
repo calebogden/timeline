@@ -94,7 +94,7 @@ export default function Home() {
               <div className="bg-slate-800/30 rounded-lg p-4 border border-slate-700/50">
                 <h4 className="font-semibold text-white mb-2">For the Curious</h4>
                 <p className="text-sm text-slate-400">
-                  Explore humanity's greatest achievements and darkest moments with unprecedented clarity.
+                  Explore humanity&apos;s greatest achievements and darkest moments with unprecedented clarity.
                 </p>
               </div>
             </div>
